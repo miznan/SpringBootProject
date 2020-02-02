@@ -1,0 +1,1 @@
+INSERT INTO Reader (username, password, fullname) VALUES ('test', 'password', 'John Grib');
